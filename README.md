@@ -1,1 +1,1 @@
-# icons
+# Icons for personal repository.
